@@ -1,3 +1,7 @@
+*This is a fork of https://github.com/mhutchie/vscode-git-graph. Thank you Michael Hutchison for this great extension!*
+
+*This fork only adds italic style to remote branches as discussed in this issue: https://github.com/mhutchie/vscode-git-graph/issues/152. Please post issues in the original repository.*
+
 # Git Graph extension for Visual Studio Code
 
 View a Git Graph of your repository, and easily perform Git actions from the graph. Configurable to look the way you want!

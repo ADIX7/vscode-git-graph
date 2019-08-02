@@ -624,6 +624,10 @@ svg.openFolderIcon, svg.closedFolderIcon, svg.fileIcon{
 	vertical-align:top;
 }
 
+.gitRef.remote{
+	font-style:italic;
+}
+
 .gitRefName, .gitRefHeadRemote{
 	display:inline-block;
 	height:18px;
